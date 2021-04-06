@@ -1,0 +1,750 @@
+{
+  "children": [
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "自有果园，基地直发，新鲜直送到家。",
+      "left": 82,
+      "right": 663,
+      "top": 233,
+      "bottom": 267,
+      "height": 34,
+      "width": 581,
+      "mask": {},
+      "text": {
+        "value": "自有果园，基地直发，新鲜直送到家。",
+        "font": {
+          "lengthArray": [
+            17
+          ],
+          "styles": [
+            "normal"
+          ],
+          "weights": [
+            "bold"
+          ],
+          "names": [
+            "SourceHanSansCN-Medium",
+            "SourceHanSansCN-Medium",
+            "AdobeInvisFont",
+            "AdobeHeitiStd-Regular"
+          ],
+          "sizes": [
+            35.01493
+          ],
+          "colors": [
+            [
+              255,
+              255,
+              255,
+              255
+            ]
+          ],
+          "alignment": [
+            "center"
+          ],
+          "textDecoration": [
+            "none"
+          ],
+          "leading": [
+            42
+          ]
+        },
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "transform": {
+          "xx": 0.9710144927536232,
+          "xy": -8.238176646493915e-17,
+          "yx": 0,
+          "yy": 0.971014492753623,
+          "tx": 45.999999999999986,
+          "ty": 234.646286231884
+        }
+      },
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "tupian",
+      "left": 307,
+      "right": 444,
+      "top": 54,
+      "bottom": 201,
+      "height": 147,
+      "width": 137,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "产品名称产品名称产品名称 脂产品名称产品名称",
+      "left": 43,
+      "right": 435,
+      "top": 1033,
+      "bottom": 1110,
+      "height": 77,
+      "width": 392,
+      "mask": {},
+      "text": {
+        "value": "产品名称产品名称产品名称\r脂产品名称产品名称",
+        "font": {
+          "lengthArray": [
+            22
+          ],
+          "styles": [
+            "normal"
+          ],
+          "weights": [
+            "bold"
+          ],
+          "names": [
+            "SourceHanSansCN-Medium",
+            "SourceHanSansCN-Medium",
+            "AdobeInvisFont",
+            "AdobeHeitiStd-Regular"
+          ],
+          "sizes": [
+            32
+          ],
+          "colors": [
+            [
+              51,
+              51,
+              51,
+              255
+            ]
+          ],
+          "alignment": [
+            "left",
+            "left"
+          ],
+          "textDecoration": [
+            "none"
+          ],
+          "leading": [
+            46
+          ]
+        },
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "transform": {
+          "xx": 1,
+          "xy": 0,
+          "yx": 0,
+          "yy": 1,
+          "tx": 42.532031250000045,
+          "ty": 1060.4812499999998
+        }
+      },
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "XXX",
+      "left": 110,
+      "right": 151,
+      "top": 1230,
+      "bottom": 1248,
+      "height": 18,
+      "width": 41,
+      "mask": {},
+      "text": {
+        "value": "XXX",
+        "font": {
+          "lengthArray": [
+            3
+          ],
+          "styles": [
+            "normal"
+          ],
+          "weights": [
+            "normal"
+          ],
+          "names": [
+            "SourceHanSansCN-Regular",
+            "AdobeInvisFont",
+            "AdobeHeitiStd-Regular"
+          ],
+          "sizes": [
+            24
+          ],
+          "colors": [
+            [
+              153,
+              153,
+              153,
+              255
+            ]
+          ],
+          "alignment": [
+            "left"
+          ],
+          "textDecoration": [
+            "none"
+          ],
+          "leading": [
+            26.12264
+          ]
+        },
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "transform": {
+          "xx": 1,
+          "xy": 0,
+          "yx": 0,
+          "yy": 1,
+          "tx": 109.53203125000005,
+          "ty": 1247.4812499999998
+        }
+      },
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "邀请你以前抢好货",
+      "left": 109,
+      "right": 299,
+      "top": 1261,
+      "bottom": 1284,
+      "height": 23,
+      "width": 190,
+      "mask": {},
+      "text": {
+        "value": "邀请你以前抢好货",
+        "font": {
+          "lengthArray": [
+            8
+          ],
+          "styles": [
+            "normal"
+          ],
+          "weights": [
+            "normal"
+          ],
+          "names": [
+            "SourceHanSansCN-Regular",
+            "AdobeInvisFont",
+            "AdobeHeitiStd-Regular"
+          ],
+          "sizes": [
+            24
+          ],
+          "colors": [
+            [
+              153,
+              153,
+              153,
+              255
+            ]
+          ],
+          "alignment": [
+            "left"
+          ],
+          "textDecoration": [
+            "none"
+          ],
+          "leading": [
+            26.12264
+          ]
+        },
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "transform": {
+          "xx": 1,
+          "xy": 0,
+          "yx": 0,
+          "yy": 1,
+          "tx": 108.53203125000005,
+          "ty": 1281.4812499999998
+        }
+      },
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "长按扫码去抢购",
+      "left": 540,
+      "right": 705,
+      "top": 1217,
+      "bottom": 1240,
+      "height": 23,
+      "width": 165,
+      "mask": {},
+      "text": {
+        "value": "长按扫码去抢购",
+        "font": {
+          "lengthArray": [
+            7
+          ],
+          "styles": [
+            "normal"
+          ],
+          "weights": [
+            "normal"
+          ],
+          "names": [
+            "SourceHanSansCN-Regular",
+            "AdobeInvisFont",
+            "AdobeHeitiStd-Regular"
+          ],
+          "sizes": [
+            24
+          ],
+          "colors": [
+            [
+              153,
+              153,
+              153,
+              255
+            ]
+          ],
+          "alignment": [
+            "center"
+          ],
+          "textDecoration": [
+            "none"
+          ],
+          "leading": [
+            26.12264
+          ]
+        },
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "transform": {
+          "xx": 1,
+          "xy": 0,
+          "yx": 0,
+          "yy": 1,
+          "tx": 622.53203125,
+          "ty": 1237.4812499999998
+        }
+      },
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": false,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "图层 1",
+      "left": 40,
+      "right": 710,
+      "top": 313,
+      "bottom": 983,
+      "height": 670,
+      "width": 670,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "55.9",
+      "left": 82,
+      "right": 207,
+      "top": 1137,
+      "bottom": 1186,
+      "height": 49,
+      "width": 125,
+      "mask": {},
+      "text": {
+        "value": "55.9",
+        "font": {
+          "lengthArray": [
+            4
+          ],
+          "styles": [
+            "normal"
+          ],
+          "weights": [
+            "bold"
+          ],
+          "names": [
+            "SourceHanSansCN-Medium",
+            "SourceHanSansCN-Medium",
+            "AdobeInvisFont",
+            "AdobeHeitiStd-Regular"
+          ],
+          "sizes": [
+            32.30082
+          ],
+          "colors": [
+            [
+              224,
+              29,
+              27,
+              255
+            ]
+          ],
+          "alignment": [
+            null
+          ],
+          "textDecoration": [
+            "none"
+          ],
+          "leading": [
+            46
+          ]
+        },
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "transform": {
+          "xx": 1.9194556601636952,
+          "xy": 0,
+          "yx": 0,
+          "yy": 1.9194556601636963,
+          "tx": 80.49427083333367,
+          "ty": 1184.5475236198495
+        }
+      },
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "¥ 99",
+      "left": 225,
+      "right": 274,
+      "top": 1165,
+      "bottom": 1184,
+      "height": 19,
+      "width": 49,
+      "mask": {},
+      "text": {
+        "value": "¥ 99",
+        "font": {
+          "lengthArray": [
+            4
+          ],
+          "styles": [
+            "normal"
+          ],
+          "weights": [
+            "bold"
+          ],
+          "names": [
+            "SourceHanSansCN-Regular",
+            "SourceHanSansCN-Regular",
+            "AdobeInvisFont",
+            "AdobeHeitiStd-Regular"
+          ],
+          "sizes": [
+            24
+          ],
+          "colors": [
+            [
+              153,
+              153,
+              153,
+              255
+            ]
+          ],
+          "alignment": [
+            null
+          ],
+          "textDecoration": [
+            "none"
+          ],
+          "leading": [
+            46
+          ]
+        },
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "transform": {
+          "xx": 1,
+          "xy": 0,
+          "yx": 0,
+          "yy": 1,
+          "tx": 225.1075520833337,
+          "ty": 1183.0932291666666
+        }
+      },
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "¥",
+      "left": 47,
+      "right": 65,
+      "top": 1160,
+      "bottom": 1184,
+      "height": 24,
+      "width": 18,
+      "mask": {},
+      "text": {
+        "value": "¥",
+        "font": {
+          "lengthArray": [
+            1
+          ],
+          "styles": [
+            "normal"
+          ],
+          "weights": [
+            "bold"
+          ],
+          "names": [
+            "SourceHanSansCN-Medium",
+            "SourceHanSansCN-Medium",
+            "AdobeInvisFont",
+            "AdobeHeitiStd-Regular"
+          ],
+          "sizes": [
+            32
+          ],
+          "colors": [
+            [
+              224,
+              29,
+              27,
+              255
+            ]
+          ],
+          "alignment": [
+            null
+          ],
+          "textDecoration": [
+            "none"
+          ],
+          "leading": [
+            46
+          ]
+        },
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "transform": {
+          "xx": 1,
+          "xy": 0,
+          "yx": 0,
+          "yy": 1,
+          "tx": 47.1075520833337,
+          "ty": 1183.0932291666666
+        }
+      },
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": false,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "图层 3",
+      "left": 535,
+      "right": 708,
+      "top": 1025,
+      "bottom": 1198,
+      "height": 173,
+      "width": 173,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "矩形 1",
+      "left": 533,
+      "right": 710,
+      "top": 1023,
+      "bottom": 1199,
+      "height": 176,
+      "width": 177,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "椭圆 1",
+      "left": 40,
+      "right": 93,
+      "top": 1222,
+      "bottom": 1276,
+      "height": 54,
+      "width": 53,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": false,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "背景 拷贝",
+      "left": 0,
+      "right": 750,
+      "top": 0,
+      "bottom": 1334,
+      "height": 1334,
+      "width": 750,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "混搭2",
+      "left": 35,
+      "right": 714,
+      "top": 308,
+      "bottom": 987,
+      "height": 679,
+      "width": 679,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "圆角矩形 1 拷贝",
+      "left": 39,
+      "right": 711,
+      "top": 311,
+      "bottom": 984,
+      "height": 673,
+      "width": 672,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "圆角矩形 1",
+      "left": 18,
+      "right": 732,
+      "top": 292,
+      "bottom": 1315,
+      "height": 1023,
+      "width": 714,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "screen",
+      "name": "椭圆 2",
+      "left": -260,
+      "right": 1584,
+      "top": 80,
+      "bottom": 1924,
+      "height": 1844,
+      "width": 1844,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 0.4588235294117647,
+      "blendingMode": "screen",
+      "name": "椭圆 2 拷贝",
+      "left": -615,
+      "right": 1299,
+      "top": 0,
+      "bottom": 1021,
+      "height": 1021,
+      "width": 1914,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "图层 5",
+      "left": -1,
+      "right": 750,
+      "top": 0,
+      "bottom": 1335,
+      "height": 1335,
+      "width": 751,
+      "mask": {},
+      "image": {}
+    },
+    {
+      "type": "layer",
+      "visible": true,
+      "opacity": 1,
+      "blendingMode": "normal",
+      "name": "背景",
+      "left": 0,
+      "right": 750,
+      "top": 0,
+      "bottom": 1334,
+      "height": 1334,
+      "width": 750,
+      "mask": {},
+      "image": {}
+    }
+  ],
+  "document": {
+    "width": 750,
+    "height": 1334,
+    "resources": {
+      "layerComps": [],
+      "resolutionInfo": {
+        "h_res": 72,
+        "h_res_unit": 1,
+        "width_unit": 2,
+        "v_res": 72,
+        "v_res_unit": 1,
+        "height_unit": 2
+      },
+      "guides": [],
+      "slices": []
+    }
+  }
+}
